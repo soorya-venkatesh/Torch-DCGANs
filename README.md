@@ -3,6 +3,11 @@
 # Description:
 Generated fake images from the bitmoji dataset using DCGANs
 
+# Dataset Link: 
+https://www.kaggle.com/datasets/mostafamozafari/bitmoji-faces
+
+# Model weights can be found [here](https://drive.google.com/drive/folders/1mETGg4bhTxurV8I_1EImiwQk3Rwz5Mmf?usp=drive_link)
+
 # Results:
 ## Gans training process
 
